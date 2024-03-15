@@ -1,0 +1,10 @@
+D:\STORE\VapeStore\VapeStore\bin\Debug\VapeStore.exe.config
+D:\STORE\VapeStore\VapeStore\bin\Debug\VapeStore.exe
+D:\STORE\VapeStore\VapeStore\bin\Debug\VapeStore.pdb
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.csproj.AssemblyReference.cache
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.Login.resources
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.Properties.Resources.resources
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.csproj.GenerateResource.cache
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.csproj.CoreCompileInputs.cache
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.exe
+D:\STORE\VapeStore\VapeStore\obj\Debug\VapeStore.pdb
